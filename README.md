@@ -2,12 +2,12 @@
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
-- [ ] Fork this assignment so you can work on your own copy.
-- [ ] Complete the assignment using an index.html and .js file and write to console.
-- [ ] Push your changes back to your GitHub repository.
-- [ ] Turn on GitHub Pages for your repository.
-- [ ] Turn in a link to the GitHub Pages site in Canvas.
-- [ ] Turn in a link to your GitHub repository for this assignment in Canvas.
+- [x] Fork this assignment so you can work on your own copy.
+- [x] Complete the assignment using an index.html and .js file and write to console.
+- [x] Push your changes back to your GitHub repository.
+- [x] Turn on GitHub Pages for your repository.
+- [x] Turn in a link to the GitHub Pages site in Canvas.
+- [x] Turn in a link to your GitHub repository for this assignment in Canvas.
 
 ## Link to assignment description
 https://coursework.vschool.io/exercise-functions/
